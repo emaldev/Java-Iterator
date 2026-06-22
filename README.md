@@ -7,4 +7,4 @@ This repository contains my practice exercises for learning Java Iterator.
 - **SumIteratorNumber**: Calculating sum of inputs using Iterator.
 - **NumberIterator**: Filtering even/odd numbers.
 
-Developed by Emal Hasanzadeh.
+Developed by Emal Hasanzada.
